@@ -44,6 +44,14 @@
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 		</ol>
+		<style>
+			blockquote {
+				border-left: 2px solid red;
+				background: #fbfbfb;
+				padding: 5px;
+			}
+		</style>
+		<blockquote>Think into existence.</blockquote>
 		<p id="LAST">If you are specific enough, you can find anything <a href="http://google.com" target="_blank">here!</a></p>
 		<p><a href="#FIRST">Let's rise again</a></p>
 	</body>
